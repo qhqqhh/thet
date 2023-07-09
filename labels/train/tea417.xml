@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tea417.jpg</filename>
+	<path>E:\dataset\images\train\tea417.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5920</width>
+		<height>2664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanju_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1092</xmin>
+			<ymin>632</ymin>
+			<xmax>4583</xmax>
+			<ymax>2477</ymax>
+		</bndbox>
+	</object>
+</annotation>
